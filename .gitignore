@@ -1,0 +1,5 @@
+/node_modules/
+/python/__pycache__/
+config.json
+history.json
+package-lock.json
