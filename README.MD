@@ -8,7 +8,7 @@ It only replies to messages that include @bot and reply to messages sent by the 
 - The AI has history of previous messages (Wich is reset on restart)
 - Tools support (Not finished yet)
 
-# Config (conifg.json)
+# Config (config.json)
 ```json
 {
     "model_small": "huihui-ai/Qwen2.5-Coder-1.5B-Instruct-abliterated",
